@@ -15,3 +15,5 @@ Note: Before running the program make sure to insert your Google Cloud API Key a
 **pygeoip**: https://pypi.org/project/pygeoip/
 
 **gmplot**: https://pypi.org/project/gmplot/
+
+**API Key Generating Link**: https://developers.google.com/maps/documentation/embed/get-api-key#console
